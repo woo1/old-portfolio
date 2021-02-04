@@ -1,0 +1,31 @@
+- title: Machine Learning Engineer
+  sub-title: ", Development Team, NextDoor, seoul, South Korea"
+  from: 02 / 2018
+  to: present 
+  period:
+  description: The company developed machine learning / deep learning models for medical images, sounds, and CCTV traffic control.<br><br>
+        Machine Learning Engineer, Web Developer (2018.02 ~)<br>
+        [Python, PostgreSQL, Flask, Tensorflow, Chainer, PyTorch]<br>
+        - Develop license plate detection and recognition model<br>
+        - Design and develop "MindTrip" which is the web platform for image deep learning and preprocessing<br>
+        - Develop pulmonary tuberculosis legion detection model from the chest X-ray images<br>
+        - Develop face image emotion classification model<br>
+        - Develop heart sound state segmentation(s1, systole, s2, diastole) and classification(normal, abnormal) model<br><br>
+
+- title: Software Enginner
+  sub-title: ", Development Team, Webcash, seoul, South Korea"
+  from: 08 / 2012
+  to: 02 / 2018
+  period: (5 Years 7 months)
+  description: The company developed IT platforms related to the banking. In particular my team developed baking apps and groupware web services.<br><br>
+    Web Developer (2012.08 ~ 2015.05)<br>
+    [JAVA/JSP/Javascript/Jquery/PostgreSQL]<br>
+    - Develop and maintain "Contact Management", "Employee Management" in Bizplay groupware web service.<br>
+    - Develop and maintain admin web service in O'rock which is used for individual business' financial management.<br><br>
+    iOS Developer (2015.06 ~ 2018.02)<br>
+    [Swift/Objective C]<br>
+    - Develop and maintain ShinhanSavings Bank<br>
+    - Develop and maintain IBK Smart Learning<br>
+    - Develop and maintain mobilesERP<br>
+    - Develop and maintain IBK 모바일 자금관리<br>
+    - Develop and maintain BNK Capital<br>

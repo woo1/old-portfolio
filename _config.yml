@@ -1,0 +1,74 @@
+### Site Settings ###
+title               : wooilJang
+description         : >-                               # >- means to ignore newlines until "url:"
+                      </br> </br> </br> 
+                      Hi~
+
+url                 : "https://woo1.github.io"  # base hostname & protocol for your site (e.g. http://example.com)
+baseurl             : ""                           # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+repository          : YoussefRaafatNasry/portfolYOU #mjk2072/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+remote_theme        : YoussefRaafatNasry/portfolYOU #mjk2072/portfolYOU@1.0.0    # uncomment this if you are using it as a remote theme
+
+### Author Info ###
+author:
+  name              : "Wooil Jang"
+  image             : "https://woo1.github.io/files/img/profile.jpeg"
+# behance          : your_username
+# dribbble          : your_username
+  email             : projwi@gmail.com
+#  facebook         : your_username
+  linkedin          : "wooil-jang-7b2853193"
+  github            : woo1
+# gitlab            : your_username
+# instagram         : your_username
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Pagination ###
+paginate: 8
+paginate_path: "/articles/page-:num/"
+
+#paginate: 6
+#paginate_path: "/blog/page-:num/"
+
+### Posts Permalink ###
+permalink: articles/:title
+
+
+### Collections ###
+### https://jekyllrb-ko.github.io/docs/collections/
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Defaults for collections ###
+### https://jekyllrb-ko.github.io/docs/configuration/
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+### Exclude from processing ###
+exclude:
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+
+### Disqus_comments setting ###
+# disqus_url: 2.disqus.com
+# disqus_id: n

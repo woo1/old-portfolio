@@ -1,0 +1,18 @@
+<div class="col mt-4">
+  <h4 style="margin-bottom: 20px; font-weight: bold;">Work Experience</h4>
+  <div class="workexperience-body">
+    {% for item in site.data.workExperience %}
+      <div class="workexperience-item">
+        <div class="content">
+          <h5><text style="font-weight:bold">{{item.title}}</text><text style="font-size:12pt;">{{item.sub-title}}</text></h5>
+            {% if item.to == "present" %} 
+              <h6 class="date" style="font-size:10pt;">{{item.from}} — <text style='color:#6495ED;'>{{item.to}}</text> {{ item.period }}</h6>
+            {% else %}
+              <h6 class="date" style="font-size:10pt;">{{item.from}} — {{item.to}} {{ item.period }}</h6>
+            {% endif %}
+          <p style="text-align:justify;">{{ item.description }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

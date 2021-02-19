@@ -7,7 +7,7 @@
         Machine Learning Engineer, Web Developer (2018.02 ~)<br>
         [Python, PostgreSQL, Flask, Tensorflow, Chainer, PyTorch]<br>
         - Develop license plate detection and recognition model<br>
-        - Design and develop "MindTrip" which is the web platform for image deep learning and preprocessing<br>
+        - Design and develop "MindTrip" which is the web framework for image deep learning and preprocessing<br>
         - Develop pulmonary tuberculosis legion detection model from the chest X-ray images<br>
         - Develop face image emotion classification model<br>
         - Develop heart sound state segmentation(s1, systole, s2, diastole) and classification(normal, abnormal) model<br><br>

@@ -1,7 +1,7 @@
 ---
 name: "Design and develop "MindTrip" which is the web framework for image deep learning and preprocessing"
 tools: [Deep learning]
-image: https://woo1.github.io/files/img/mindtrip_sample_th.png
+image: https://woo1.github.io/files/img/mindtrip_sample_th.jpg
 description: This project aimed to support all the processes in deep learning on the web.
 category: projects
 comments: false

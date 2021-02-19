@@ -7,7 +7,7 @@ category: projects
 comments: false
 ---
 
-# Design of Augmented Surgical Information Platform for Intelligent Decision Support
+# Develop pulmonary tuberculosis legion detection model for screening support
 
 <!-- The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support. -->
 ![preview](https://woo1.github.io/files/img/xray_img.jpg)
